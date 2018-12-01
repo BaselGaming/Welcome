@@ -5,7 +5,7 @@ client.on('guildMemberAdd', member => {
 const mohamed= member.guild.channels.get("ا518174539440717835");
 if(!mohamed) return;
 if(mohamed) {
-setTimeout(() => mohamed.send(`**-# Welcomme , To Versus Server :heart:  **`), 4000)        
+setTimeout(() => mohamed.send(`**-# Welcomme , To Versus Server :heart:**`), 4000)        
 }
 });
 
